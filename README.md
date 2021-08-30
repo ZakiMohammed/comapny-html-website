@@ -8,3 +8,8 @@ Pages:
 2. About
 3. Services
 4. Contact
+
+For Images Use:
+```
+https://picsum.photos
+```
